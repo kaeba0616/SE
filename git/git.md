@@ -117,4 +117,16 @@
 
 ![git flow](./image/git_flow.png)
 
-![git flow](./image/git_flow.png)
+
+# untracked 
+   - 새로 만들 폴더나 파일을 만들 때
+   - 커밋에 없는 파일
+
+# modified
+   - 기존에 있던 폴더나 파일을 수정할 때
+
+# Tracked == staged
+   - git add 'track할 파일의 주소'
+      - snap shot을 함! commit을 하면 git add 할 당시의 버전이 commit이 된다.
+
+![git flow](/image/git_status_1.png)
